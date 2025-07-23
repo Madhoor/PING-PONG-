@@ -12,6 +12,8 @@ let pauseMessage = "";
 let playerScore = 0;
 let computerScore = 0;
 
+let baseSize;
+
 let startButton;
 let restartButton;
 
