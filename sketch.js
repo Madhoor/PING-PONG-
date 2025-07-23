@@ -27,8 +27,8 @@ let MAP1;
 let MAP2;
 
 function preload() {
-  sound = loadSound("/cinematic-impact-hit-352702.mp3");
-  QRpic = loadImage("/google form game debug.png");
+  sound = loadSound("cinematic-impact-hit-352702.mp3");
+  QRpic = loadImage("google-form-game-debug.png");
 }
 
 function setup() {
